@@ -1,7 +1,0 @@
-
-/* msdgames simple custom styles */
-body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial; }
-.navbar-brand { font-size: 1.3rem; }
-.btn-danger { background-color: #c82333; border-color: #c82333; }
-.card-img-top { height: 180px; object-fit: cover; }
-footer { border-top: 1px solid #eee; }
